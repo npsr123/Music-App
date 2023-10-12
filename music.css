@@ -1,0 +1,127 @@
+body {
+    height: 100%;
+  
+  }
+  
+  .Navigation {
+    display: flex;
+    flex-direction: column;
+    row-gap: 55px;
+    height: 20cm;
+  }
+  
+  .main {
+    display: flex;
+    background-color: #f4a952;
+    height: 200px;
+    padding: 50px;
+    width: 32cm;
+    margin-left: 30px;
+    margin-top: -750px;
+  }
+  
+  img {
+    height: 200px;
+    width: 200px;
+  }
+  
+  .size {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+  
+  .margin {
+    margin-left: 30px;
+    margin-top: -10px;
+  }
+  
+  #icons {
+    display: flex;
+    margin-top: 70px;
+    margin-left: 30px;
+    column-gap: 20px
+  }
+  
+  .Songs {
+    display: flex;
+    column-gap: 250px;
+    margin-left: 50px;
+  }
+  
+  #Colour {
+    background-color: #f8e1ba;
+  }
+  
+  .Song {
+    display: flex;
+    margin-left: 50px;
+    column-gap: 210px;
+    background-color: #f8e1ba;
+  }
+  
+  .Time {
+    margin-left: 53px;
+  }
+  
+  .Click {
+    border: 2px solid black;
+  }
+  
+  .Click2 {
+    border: 2px solid black;
+    margin-left: 40px;
+  }
+  
+  .Click3 {
+    border: 2px solid black;
+    margin-left: 0px;
+  }
+  
+  .Third {
+    margin-left: -10px;
+  }
+  
+  .Thirds {
+    margin-left: 5px;
+  }
+  
+  .Fourth {
+    display: flex;
+    margin-left: -20px;
+  }
+  
+  .FourthTime {
+    margin-left: 20px;
+  }
+  
+  .Lastimage {
+    height: 80px;
+    width: 80px;
+    margin-top: 8px;
+    margin-left: 8px;
+  }
+  
+  .End {
+    background-color: #d39178;
+    height: 95px;
+    margin-top: 10px;
+    justify-content: end;
+  }
+  
+  #Last {
+    margin-left: 100px;
+    margin-top: -65px;
+  }
+  
+  .Bottoms {
+    margin-left: 100px;
+    margin-top: 20px;
+  }
+  
+  #Lasticons {
+    display: flex;
+    column-gap: 75px;
+    margin-left: 23cm;
+    margin-top: -55px;
+  }
